@@ -1,0 +1,23 @@
+1. นำไฟล์เข้า folder "resource"
+
+2. เปลี่ยนชื่อไฟล์ให้เป็นในรูปแบบ  20xx-Qx.xlsx ( เช่น 2019-Q4.xlsx)
+	*** นามสกุลไฟล์ต้องเป็น xlsx เท่านั้น
+	*** ตัว Q ในชื่อไฟล์ต้องเป็นตัวใหญ๋
+
+3. กดใช้งาน file "click.bat" 
+เพื่อสรุปผลข้อมูล ซึ่งจะได้ไฟล์  "citaions_summary.xlsx"
+	*** ในไฟล์  "citaions_summary.xlsx" สามารถแก้ไขข้อมูลได้ตามสะดวก
+	  แต่เมื่อมีการ run file "click.bat" ข้อมูลที่แก้เพิ่มเติมจะหายไป
+
+4. อย่าแก้ไขเกี่ยวกับ file ใน folder code 
+
+5. ถ้าหากไฟล์  "citaions_summary.xlsx" มีปัญหาสามารถกด run file "click.bat" 
+ใหม่ได้ จะได้ผลลัพธ์กลับมาเป็นไฟล์ตั้งตน
+
+
+
+ถ้าหากมีปัญหากรุณาติดต่อ
+Fairy     :  butsaranee.no60@cbs.chula.ac.th  หรือ 098-546-1539
+Touch  :	  kitithat.kh60@cbs.chula.ac.th     หรือ 083-832-4245
+Pro       :	  korpong.si60@cbs.chula.ac.th    หรือ 091-165-2953
+	  
